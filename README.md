@@ -46,17 +46,17 @@
 
 1. Clone o repositório:
    
-       git clone https://seu-repositorio.git
+       git clone https://github.com/Anagabis/API-Usuario.git
        cd ApiUsuario
 2. Restaure as dependências:
    
        dotnet restore
 3.Execute as migrações (se necessário):
            
-   dotnet ef database update
+    dotnet ef database update
 4. Inicie a aplicação:
 
-    dotnet run
+       dotnet run
 
 # Contribuições 🤝
 - Sinta-se à vontade para contribuir com melhorias ou correções. Abra uma issue ou envie um pull request!
